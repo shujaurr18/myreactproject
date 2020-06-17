@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
     <h1>The value of counter is:{count}</h1>
-    <button onClick={()=> setcount(4)
+    <button onClick={()=> setcount(++count)
     }>update counter</button>
 </div>
   );
