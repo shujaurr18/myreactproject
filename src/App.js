@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 import Dineer from './dinner.js';
-import School from './school.js'
 function App() {
   return (
     <div className="App">
@@ -11,7 +10,7 @@ function App() {
    <Dineer dishname="baryani" sweetdish="rass malai" />
     <br> </br>
    <Dineer dishname="nehari" sweetdish="ice caream" />
-    <School schoolname= "alnoorschool" />
+
 </div>
   );
 }
