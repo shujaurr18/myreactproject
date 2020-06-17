@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Dineer from './dinner.js';
-
+import School from './newcompo'
 function App() {
   return (
     <div className="App">
