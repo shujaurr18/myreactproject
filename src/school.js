@@ -7,3 +7,4 @@ function school(props){
         </div>
     )
 }
+export default school;
