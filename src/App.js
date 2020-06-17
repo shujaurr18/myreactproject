@@ -11,6 +11,7 @@ function App() {
    <Dineer dishname="baryani" sweetdish="rass malai" />
     <br> </br>
    <Dineer dishname="nehari" sweetdish="ice caream" />
+    <newcompo schoolname= "alnoorschool" />
 </div>
   );
 }
